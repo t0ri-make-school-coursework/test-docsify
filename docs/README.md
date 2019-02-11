@@ -6,7 +6,7 @@
 * Custom portfolio API, with frontend for inserting data [auth] and viewing [public]
 * nice a second bullet point!
 
-Example code Snippet
-``` //javascript
+Example code Snippet!
+``` javascript
 const hey = new Hey('hey')
 ```
