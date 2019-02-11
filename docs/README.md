@@ -3,8 +3,10 @@
 ### Initialize
 
 ## API Ideas
-* Custom portfolio API, with frontend for inserting data [auth] and viewing [public]
-* nice a second bullet point!
+* Custom portfolio API (BEW 1.2), (FEW 2.3) with React frontend for inserting data [auth] and viewing [public]
+* favorite sbux drink builder api?
+* idk!
+* nice, another bullet point!
 
 Example code Snippet!
 ``` javascript
