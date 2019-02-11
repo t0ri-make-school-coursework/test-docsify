@@ -11,5 +11,6 @@
 
 Example code Snippet!
 ``` javascript
+// Showing off code snippets in docs
 const hey = new Hey('hey')
 ```
