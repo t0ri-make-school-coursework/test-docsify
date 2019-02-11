@@ -4,7 +4,7 @@
 
 ## API Ideas
 * Custom portfolio API, with frontend for inserting data [auth] and viewing [public]
-* nice
+* nice a second bullet point!
 
 Example code Snippet
 ``` //javascript
