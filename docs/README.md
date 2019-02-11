@@ -1,3 +1,12 @@
-# Headline
+# Getting Started
+## Quick Start
+### Initialize
 
-> An awesome project.
+## API Ideas
+* Custom portfolio API, with frontend for inserting data [auth] and viewing [public]
+* nice
+
+Example code Snippet
+``` //javascript
+const hey = new Hey('hey')
+```
